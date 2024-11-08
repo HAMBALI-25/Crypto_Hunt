@@ -80,7 +80,7 @@ What are you waiting for ⁉️🤨
 Find wallets with me 👉
 
 ## CryptoHunt:
-<img src="CryptoHunt_7.png">
+<img src="CryptoHunt_6.png">
 💸 Free Discount Only 
 
 
