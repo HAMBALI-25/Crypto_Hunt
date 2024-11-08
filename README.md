@@ -64,7 +64,7 @@ TYPES OF LICENSE:
 
 
 ## CryptoHunt:
-<img src="CryptoHunt_5.png">
+<img src="CryptoHunt_5.jpg">
 
 👉 I provide you with all the 
 
@@ -80,7 +80,7 @@ What are you waiting for ⁉️🤨
 Find wallets with me 👉
 
 ## CryptoHunt:
-<img src="CryptoHunt_6.png">
+<img src="CryptoHunt_6.jpg">
 💸 Free Discount Only 
 
 
