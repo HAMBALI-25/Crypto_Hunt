@@ -84,7 +84,9 @@ Find wallets with me 👉
 💸 Free Discount Only 
 
 
-### Hi. I'm Hambali Developers 😎
+### Hi. I'm Hambali Developers 
+
+<img src="Hambali.png">
 
 # Contact Me And SosialMedia 
 
@@ -99,7 +101,6 @@ Find wallets with me 👉
 • Telpon    : (+6283128356342)
 
 
-<img src="Hambali.png">
 
 ## List of available sites:
 ```
