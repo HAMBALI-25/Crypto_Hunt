@@ -79,7 +79,7 @@ What are you waiting for ⁉️🤨
 
 Find wallets with me 👉
 
-## Bull Brute:
+## CryptoHunt:
 <img src="CryptoHunt_7.png">
 💸 Free Discount Only 
 
