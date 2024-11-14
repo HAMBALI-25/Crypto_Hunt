@@ -36,7 +36,6 @@ FAQ:
 📲If you have any questions - contact
 
 ## CryptoHunt:
-<img src="CryptoHunt_4.png">
 
  PRICE:
 
@@ -64,7 +63,7 @@ TYPES OF LICENSE:
 
 
 ## CryptoHunt:
-<img src="CryptoHunt_5.jpg">
+<img src="Promo_Discount_1.png">
 
 👉 I provide you with all the 
 
@@ -77,13 +76,14 @@ All you need to do IS TO RUN SOFTWARE and wait, usually just a few days, for it 
 
 What are you waiting for ⁉️🤨
 
+## CryptoHunt:
+<img src="Promo_Discount_2.png">
+💸 Free Discount Only 
+
 Find wallets with me 👉
 
 ## CryptoHunt:
-<img src="CryptoHunt_6.jpg">
-💸 Free Discount Only 
-
-<img src="Promo_Discount_1.png">
+<img src="Promo_Discount_3.png">
 💸 Free Discount Only 
 
 
