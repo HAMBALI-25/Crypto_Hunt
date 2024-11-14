@@ -106,44 +106,48 @@ Contact Me ☎️
 
 ## PAYMEN BILLING ACCOUNTING 💸 :
 
+<img src="logo-bni.png">
 Nama Rekening    : HAMBALI
 💳Nomor Rekening : 1732415280
-🏛️Bank/Ewallet   : BNI
+🏛️Bank/Ewallet  : BNI
+📞No/Hp/Wa      : 083128356342
 
-📞No/Hp/Wa       : 083128356342
 
+<img src="logo-mandiri.png">
 Nama Rekening    : HAMBALI
 💳Nomor Rekening : 1070020002293
-🏛️Bank/Ewallet   : MANDIRI
+🏛️Bank/Ewallet  : MANDIRI
+📞No/Hp/Wa      : 083128356342
 
-📞No/Hp/Wa       : 083128356342
 
+<img src="logo-bca.png">
 Nama Rekening    : HAMBALI
 💳Nomor Rekening : 6125198485
-🏛️Bank/Ewallet   : BCA
+🏛️Bank/Ewallet  : BCA
+📞No/Hp/Wa      : 083128356342
 
-📞No/Hp/Wa       : 083128356342
-
+<img src="logo-bri.png">
 Nama Rekening    : HAMBALI
 💳Nomor Rekening : 337901048315530
-🏛️Bank/Ewallet   : BRI
+🏛️Bank/Ewallet  : BRI
+📞No/Hp/Wa      : 083128356342
 
-📞No/Hp/Wa       : 083128356342
-
+<img src="logo-bsi.png">
 Nama Rekening    : HAMBALI
 💳Nomor Rekening : 7250360393
-🏛️Bank/Ewallet   : BSI
+🏛️Bank/Ewallet  : BSI
+📞No/Hp/Wa      : 083128356342
 
-📞No/Hp/Wa       : 083128356342
-
+<img src="logo-paypal.png">
 Nama Rekening    : HAMBALI
 💳Nomor Rekening : 083128356342
-🏛️Bank/Ewallet   : PAYPAL
-
-📞No/Hp/Wa       : 083128356342
+🏛️Bank/Ewallet  : PAYPAL
+📞No/Hp/Wa      : 083128356342
 
 
 ### 👋 HI. I'm Hambali Programming 👩‍💻
+
+<img src="Medical Data Visualization (1).gif"/>
 
 <img src="borderseparator.gif"/>
 
