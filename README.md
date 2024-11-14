@@ -91,7 +91,7 @@ Find wallets with me 👉
 <img src="Promo_Discount_3.png">
 💸 Free Discount Only 
 
-### Hi. I'm Hambali Developers 
+### 👋 Hi. I'm Hambali It
 
 Contact Me ☎️
 
@@ -106,37 +106,39 @@ Contact Me ☎️
 
 ## PAYMEN BILLING ACCOUNTING 💸:
 
-Nama Rekening        : HAMBALI
+Nama Rekening    : HAMBALI
 💳Nomor Rekening : 1732415280
-🏛️Bank/Ewallet        : BNI
-📞No/Hp/Wa            : 083128356342
+🏛️Bank/Ewallet   : BNI
+📞No/Hp/Wa       : 083128356342
 
-Nama Rekening        : HAMBALI
+Nama Rekening    : HAMBALI
 💳Nomor Rekening : 1070020002293
-🏛️Bank/Ewallet        : MANDIRI
-📞No/Hp/Wa            : 083128356342
+🏛️Bank/Ewallet   : MANDIRI
+📞No/Hp/Wa       : 083128356342
 
-Nama Rekening        : HAMBALI
+Nama Rekening    : HAMBALI
 💳Nomor Rekening :  6125198485
-🏛️Bank/Ewallet        : BCA
-📞No/Hp/Wa            : 083128356342
+🏛️Bank/Ewallet   : BCA
+📞No/Hp/Wa       : 083128356342
 
-Nama Rekening        : HAMBALI
+Nama Rekening    : HAMBALI
 💳Nomor Rekening : 337901048315530
-🏛️Bank/Ewallet        : BRI
-📞No/Hp/Wa            : 083128356342
+🏛️Bank/Ewallet   : BRI
+📞No/Hp/Wa       : 083128356342
 
-Nama Rekening        : HAMBALI
+Nama Rekening    : HAMBALI
 💳Nomor Rekening : 7250360393
-🏛️Bank/Ewallet        : BSI
-📞No/Hp/Wa            : 083128356342
+🏛️Bank/Ewallet   : BSI
+📞No/Hp/Wa       : 083128356342
 
-Nama Rekening        : HAMBALI
+Nama Rekening    : HAMBALI
 💳Nomor Rekening : 083128356342
-🏛️Bank/Ewallet        : PAYPAL
-📞No/Hp/Wa            : 083128356342
+🏛️Bank/Ewallet   : PAYPAL
+📞No/Hp/Wa       : 083128356342
 
-### HI. I'm HAMBALI Programming 👩‍💻
+
+### 👋 HI. I'm Hambali Programming And Developers  👩‍💻
+
 ⭐⭐⭐⭐⭐⭐
 
 <img src="borderseparator.gif"/>
@@ -194,3 +196,5 @@ Nama Rekening        : HAMBALI
 HAMBALI-25/HAMBALI-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img src="borderseparator.gif"/>
