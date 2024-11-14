@@ -104,7 +104,7 @@ Contact Me ☎️
 <img src="Hambali.png">
 
 
-## PAYMEN BILLING ACCOUNTING 💸:
+## PAYMEN BILLING ACCOUNTING 💸 :
 
 Nama Rekening    : HAMBALI
 💳Nomor Rekening : 1732415280
@@ -117,7 +117,7 @@ Nama Rekening    : HAMBALI
 📞No/Hp/Wa       : 083128356342
 
 Nama Rekening    : HAMBALI
-💳Nomor Rekening :  6125198485
+💳Nomor Rekening : 6125198485
 🏛️Bank/Ewallet   : BCA
 📞No/Hp/Wa       : 083128356342
 
@@ -137,7 +137,7 @@ Nama Rekening    : HAMBALI
 📞No/Hp/Wa       : 083128356342
 
 
-### 👋 HI. I'm Hambali Programming And Developers  👩‍💻
+### 👋 HI. I'm Hambali Programming 👩‍💻
 
 ⭐⭐⭐⭐⭐⭐
 
